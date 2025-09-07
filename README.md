@@ -3,6 +3,7 @@ Music Store Data Analysis
 This project involved a comprehensive analysis of a music store's sales data to provide key business insights. The goal was to identify top-performing artists, genres, and customer purchasing habits to inform business strategy.
 
 Tools & Technologies:
+
 SQL: Used for data cleaning, manipulation, and querying.
 
 Key Questions & Insights:
